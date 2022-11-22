@@ -1,2 +1,1 @@
-# Tic-Tac-Toe
-Just what the name suggests.....
+Starting out
